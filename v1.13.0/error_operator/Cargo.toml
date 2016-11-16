@@ -1,0 +1,6 @@
+[package]
+name = "error_operator"
+version = "0.1.0"
+authors = ["yeahnoob <yeahnoob@buaa.edu.cn>"]
+
+[dependencies]
